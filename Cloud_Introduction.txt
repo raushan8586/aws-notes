@@ -28,7 +28,9 @@ How do you select a region:
 
 
 AWS History
-
+2007 --> EC2 (Elastic Compute Cloud) --> Server
+         S3 (Simple Storage Service) --> Storage
+         SQS (Simple Queue Service) --> Queuing Service
 
 
 
