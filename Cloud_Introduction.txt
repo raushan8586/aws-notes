@@ -22,9 +22,16 @@ Cloud computing --> The use of software and hardware over the internet
 * Computing based on internet is called cloud computing
 
 
+Features of Cloud:
+1. Self-Service
+2. Elasticity
+3. PAYG
+
+
 How do you select a region:
 1. Customer Base
 2. Latency
+
 
 
 AWS History
@@ -34,6 +41,10 @@ AWS History
 
 
 
+Cloud Service Models:
+1. IaaS
+2. PaaS
+3. SaaS
 
 
 
