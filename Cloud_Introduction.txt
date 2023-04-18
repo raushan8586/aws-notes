@@ -1,0 +1,37 @@
+Datacenter  -- servers, Storage (use-cases)
+
+On-premise -- you own the datacenter
+
+Cloud - AWS/Azure/GCP
+
+checkpoint?
+
+
+AWS Global infrastructure
+
+Region
+Availability Zones (AZs) --> 1 or more discrete DCs
+AZ=DC
+
+Minimum - 2 AZs
+Maximum - 6 AZs
+Usually - 3 AZs
+
+
+Cloud computing --> The use of software and hardware over the internet
+* Computing based on internet is called cloud computing
+
+
+How do you select a region:
+1. Customer Base
+2. Latency
+
+
+AWS History
+
+
+
+
+
+
+
