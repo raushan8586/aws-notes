@@ -11,3 +11,14 @@ Security Group --> Firewall --> EC2 instance
 Linux distributions
 1. CentOS --> Redhat, Amazon Linux, Fedora --> default package manager --> yum
 2. Debian --> ubuntu --> default package manager --> apt
+
+
+Install Web-Server
+1  yum update -y
+    2  clear
+    3  yum install httpd -y
+    4  systemctl status httpd
+    5  systemctl start httpd
+    6  systemctl status httpd
+    7  systemctl enable httpd
+    8  history
