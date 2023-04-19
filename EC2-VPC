@@ -7,3 +7,7 @@ Linux EC2 --> ssh --> port 22
 Window EC2 --> RDP --> port 3389
 
 Security Group --> Firewall --> EC2 instance
+
+Linux distributions
+1. CentOS --> Redhat, Amazon Linux, Fedora --> default package manager --> yum
+2. Debian --> ubuntu --> default package manager --> apt
