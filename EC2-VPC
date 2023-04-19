@@ -1,0 +1,9 @@
+AMI --> Amazon Machine Image --> OS
+Every AWS regions has got a default VPC
+VPC --> Virtial Private Cloud --> Networking Service of AWS
+
+
+Linux EC2 --> ssh --> port 22
+Window EC2 --> RDP --> port 3389
+
+Security Group --> Firewall --> EC2 instance
