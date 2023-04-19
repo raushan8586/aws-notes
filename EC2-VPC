@@ -14,6 +14,8 @@ Linux distributions
 
 
 Install Web-Server
+switch to root user --> sudo su -
+
 1  yum update -y
     2  clear
     3  yum install httpd -y
