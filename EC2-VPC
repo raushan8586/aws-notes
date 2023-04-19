@@ -4,7 +4,7 @@ VPC --> Virtial Private Cloud --> Networking Service of AWS
 
 
 Linux EC2 --> ssh --> port 22
-Window EC2 --> RDP --> port 3389
+Window EC2 --> RDP --> port 3389 --> upload the key to decrypt the password
 
 Security Group --> Firewall --> EC2 instance
 
