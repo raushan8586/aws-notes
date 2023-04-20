@@ -1,6 +1,9 @@
 1. Instance Connect
 2. Mobaxterm --> https://mobaxterm.mobatek.net/download-home-edition.html
 3. Putty --> https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.78-installer.msi
+puttygen --> .pem to .ppk
+putty --> host, connection, data (user-name), key details
+
 4. Windows Command Prompt
 5. MAC - terminal
 
