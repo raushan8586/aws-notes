@@ -6,3 +6,5 @@ Cloud Trail --> Governance of User activity
 CloudWatch --> AWS Monitoring Solution
 
 VPC Endpoints --> Connect to other AWS Services using Private connection
+
+On-Prem --> Internet+Encryption, Direct Connect
