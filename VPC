@@ -1,0 +1,6 @@
+Flow Logs --> Network logs --> VPC, Subnet, ENI
+Guard Duty --> Threat Detection Service --> It goes over flow logs and provides findings on the threats --> has some intelligence built-in
+
+Cloud Trail --> Governance of User activity
+
+CloudWatch --> AWS Monitoring Solution
