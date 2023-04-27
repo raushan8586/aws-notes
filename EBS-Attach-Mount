@@ -7,3 +7,6 @@ root@ip-172-31-1-243:~# history
     mkdir /intellipaat
     mount /dev/xvdf /intellipaat/
     df -h
+    
+    
+    umount /dev/xvdf
