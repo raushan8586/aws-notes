@@ -1,9 +1,9 @@
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-using-volumes.html
+
 root@ip-172-31-1-243:~# history
-    1  fdisk -l
-    2  mkfs.ext4 /dev/xvdf
-    3  mkdir /intellipaat
-    4  mount /dev/xvdf /intellipaat/
-    5  df -h
-    6  fdisk -l
-    7  lsblk
-    8  history
+    lsblk -f  
+    fdisk -l
+    mkfs.ext4 /dev/xvdf
+    mkdir /intellipaat
+    mount /dev/xvdf /intellipaat/
+    df -h
