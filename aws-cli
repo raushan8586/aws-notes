@@ -19,3 +19,12 @@ root@ip-172-31-37-76:~# history
    12  sudo ./aws/install
    14  aws --version
 
+
+
+aws configure and work with S3 using aws cli
+16  aws s3 mb s3://intellipaat-5th-may-2023
+   17  aws configure
+   18  clear
+   19  aws s3 mb s3://intellipaat-5th-may-2023
+   20  aws s3 ls
+   21  history
