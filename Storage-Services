@@ -1,3 +1,6 @@
 1. EBS --> we provision EBS with EC2 instance. We basically store OS and related logs, Databases
 2. S3 --> Object Storage --> anything --> Netflix
 3. EFS --> Elastic File System
+
+On-Premise Vs Cloud
+https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services/
