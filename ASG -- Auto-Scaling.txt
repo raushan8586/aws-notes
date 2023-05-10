@@ -1,0 +1,18 @@
+ASG --> Auto-Scaling
+Purpose: To save infra cost
+
+Mon-Fri
+8 AM - 11 AM --> 5000 users --> 50 servers --> 3 hrs
+11 AM - 7 PM --> 3000 users --> 30 Servers
+7 PM - 11 PM --> 10000 users --> 100 servers --> 4 hrs
+11 PM - 8 AM --> 1000 users --> 10 servers
+
+17 hrs --> 30 servers
+
+Sat-Sun
+8 AM - 11 AM --> 5000 users --> 50 servers
+11 AM - 11 PM -> 10000 users --> 100 Servers
+11 PM - 8 AM --> 1000 users --> 10 servers
+
+Sale Hours
+Saturday - 4 PM - 7 PM --> 100000 --> 1000 servers
