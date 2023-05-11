@@ -18,3 +18,10 @@ Sale Hours
 Saturday - 4 PM - 7 PM --> 100000 --> 1000 servers
 
 ASG --> AMI
+
+Horizontal Scaling
+cores/ram of servers is fixed --> increase/decrease --> Scale Out / Scale In
+
+
+Vertical Scaling
+cores/ram of servers are not fized --> scaleup / scale down
