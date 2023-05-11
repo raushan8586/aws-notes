@@ -25,3 +25,12 @@ cores/ram of servers is fixed --> increase/decrease --> Scale Out / Scale In
 
 Vertical Scaling
 cores/ram of servers are not fized --> scaleup / scale down
+
+*** Auto-Scaling-- Imp ***
+
+1. ASG can have more than one scaling policy attached at any given time.
+2. Each ASG would have at least two policies: one to scale the architecture out and another to scale the architecture in.
+3. If an ASG has multiple policies, there is always a chance that both policies can instruct the Auto Scaling to Scale Out or Scale In at the same time.
+
+Note:
+When these situations occur, Auto Scaling chooses the policy that has the greatest impact i.e. provides the largest capacity for both scale out and scale in on the ASG for e.g. if two policies are triggered at the same time and Policy 1 instructs to scale out the instance by 1 while Policy 2 instructs to scale out the instances by 2, Auto Scaling will use the Policy 2 and scale out the instances by 2 as it has a greater impact.
