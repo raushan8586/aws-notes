@@ -16,3 +16,5 @@ Sat-Sun
 
 Sale Hours
 Saturday - 4 PM - 7 PM --> 100000 --> 1000 servers
+
+ASG --> AMI
