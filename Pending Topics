@@ -1,0 +1,5 @@
+Module 1, 2, 3, 4, 5, 8 --> Covered, except below topics:
+
+AWS Cost and Best Practices - EC2, Storage
+Instance tenancy- Reserved and Spot instances
+Pre-Route 53 – how DNS works, Routing policy, Route 53 terminologies, Pricing
