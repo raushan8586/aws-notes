@@ -6,3 +6,6 @@ https://aws.amazon.com/blogs/publicsector/how-migrate-on-premises-workloads-aws-
 SQL --> https://www.w3schools.com/sql/
 
 https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/tutorials.html
+
+Beanstalk Instance Profile
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/iam-instanceprofile.html
