@@ -2,3 +2,6 @@ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/tutorials.html
 
 Beanstalk Instance Profile
 https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/iam-instanceprofile.html
+
+Deployment policies
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.deploy-existing-version.html
