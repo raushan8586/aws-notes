@@ -3,4 +3,5 @@ https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-guide/m
 
 https://aws.amazon.com/snow/
 
-Application Migration Service --> Lift and Shift --> 
+Application Migration Service --> Lift and Shift --> Rehosting
+AWS Database Migration Service
