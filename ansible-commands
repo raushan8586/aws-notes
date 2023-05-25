@@ -1,0 +1,13 @@
+21  cd ~
+   22  pwd
+   23  ls -la
+   24  cd .ssh
+   25  ls -l
+   26  cat authorized_keys 
+   27  ssh-keygen
+   28  ls -l
+   29  cat id_rsa.pub
+   30  cd /etc/ansible/
+   31  ls -l
+   32  ansible -m ping dev
+   33  history
