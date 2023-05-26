@@ -7,4 +7,10 @@ install eksctl
    13  eksctl version
    
    
-   eksctl create cluster --name my-cluster
+   eksctl create cluster --name intellipaat-cluster
+   
+   eksctl get cluster
+   
+   Get the cluster name from the above command
+   
+   eksctl delete cluster --name <intellipaat-cluster>
